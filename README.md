@@ -11,10 +11,9 @@ tidy_data.txt - Summerized tidy data after step 5 of the project
 The code contains of 4 sections, the numbers of the sections refers to the task specification of the prokect.
 
 ### 0)Import data
-loads data from website, if not already existing in the workingdirectory
+loads data from website, if not already existing in the working directory
 
-### 1)Merges the training and the test sets to create one data set
-### involves 3+4 (descriptive activity names + appropriately labels)
+### 1)Merges the training and the test sets to create one data set - involves 3+4 (descriptive activity names + appropriately labels)
 
 Merging all data into one matrix using rbind,cbind and merge. 
 Name the columns:
